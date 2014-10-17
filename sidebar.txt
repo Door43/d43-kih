@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kih:home|Door43 (kih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kih|d43-kih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kih/archive/master.zip|d43-kih.zip]]
+
+**Recent Changes**
+{{changes>ns = kih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kih|Ethnologue data]]
+
